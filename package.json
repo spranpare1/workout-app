@@ -1,0 +1,11 @@
+{
+ "name":"tempo-workspace",
+ "private":true,
+ "scripts":{
+  "dev":"npm --prefix tempo run dev",
+  "start":"npm --prefix tempo start",
+  "test":"npm --prefix tempo test",
+  "check":"npm --prefix tempo run check",
+  "test:browser":"npm --prefix tempo run test:browser"
+ }
+}
